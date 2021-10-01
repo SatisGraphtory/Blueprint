@@ -17,8 +17,12 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "outDir": "build",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "declarationDir": "build/dts"
   },
   "include": [
     "src"
