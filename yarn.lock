@@ -2606,10 +2606,15 @@
   resolved "https://registry.yarnpkg.com/@pixi/core/-/core-6.1.2.tgz#81b151654f5c072feb59052325edaab39329ab96"
   integrity sha512-S+f0qmVkrePor2XKA6A70Axo8ui+HiZgkl1J7AWVtl6MI49+3tXra9Ww3xmp/6jEdIUQyyN5sC8cg8dF/lgmBw==
 
-"@pixi/display@6.1.2", "@pixi/display@^6.1.2":
+"@pixi/display@6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@pixi/display/-/display-6.1.2.tgz#4fc7d407723d3c496f069e3f5de7de83ca712cfe"
   integrity sha512-JbX9GF6kOg8n8mcOFvcVZBpDRZtB/u7I+L0taOMHHtQ16bdBQ9+CxYgvOi9FLyWQNKl4utnnviQx4t8Km01POQ==
+
+"@pixi/display@^6.2.1":
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/@pixi/display/-/display-6.2.1.tgz#f2859ac5e5fd98f5049f089af8a0654d6702162e"
+  integrity sha512-4taHTgQeAWXrxB4WV0CsyarFEVuI8seKU+12S57c8nQGRYESfDUx4jFatWfgMHY2xCNwCdPTCvlSJzT5ou8VWA==
 
 "@pixi/extract@6.1.2":
   version "6.1.2"
