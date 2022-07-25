@@ -2596,10 +2596,15 @@
   resolved "https://registry.yarnpkg.com/@pixi/compressed-textures/-/compressed-textures-6.1.2.tgz#efc2de485cc495f22fd97b9b5963de298aa4cb8f"
   integrity sha512-BcOaXKS4+6fTOnORt6o2uKUJGpwTIDhIzF+t0ekd9UGhfLykFHIALdgCYPU1e4GvtWWDfaYYhIwWWa8sX+FWTQ==
 
-"@pixi/constants@6.1.2", "@pixi/constants@^6.1.2":
+"@pixi/constants@6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@pixi/constants/-/constants-6.1.2.tgz#efc12bfcb75aec18c4920d2c0b2fa513d34cc777"
   integrity sha512-rPHWzGDI/PKD0/p8mrsoednpDhbvfidcen2Vozz7KNO5SS/ljqyiZLEbHwYK/xhc2Z7QvXVuDuPaWl9FBCRiQg==
+
+"@pixi/constants@^6.5.1":
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/@pixi/constants/-/constants-6.5.1.tgz#a1ab02f94d0dd00fbc47d5384cce30994f014560"
+  integrity sha512-xhiCvpGtWlEKEuxRjygnjtfkOxW/FFDpJpwYjygfNr2WL+K6r8dfLl5VB89Au1dtp+akRqBo9AqO5gEZ0TaXzA==
 
 "@pixi/core@6.1.2", "@pixi/core@^6.1.2":
   version "6.1.2"
