@@ -14,7 +14,7 @@
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@pixi/constants": "^6.1.2",
-    "@pixi/core": "^6.1.2",
+    "@pixi/core": "^6.5.8",
     "@pixi/display": "^6.1.2",
     "@pixi/graphics": "^6.1.2",
     "@pixi/interaction": "^6.1.2",
