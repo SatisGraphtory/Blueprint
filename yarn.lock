@@ -2601,10 +2601,17 @@
   resolved "https://registry.yarnpkg.com/@pixi/constants/-/constants-6.1.2.tgz#efc12bfcb75aec18c4920d2c0b2fa513d34cc777"
   integrity sha512-rPHWzGDI/PKD0/p8mrsoednpDhbvfidcen2Vozz7KNO5SS/ljqyiZLEbHwYK/xhc2Z7QvXVuDuPaWl9FBCRiQg==
 
-"@pixi/core@6.1.2", "@pixi/core@^6.1.2":
+"@pixi/core@6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@pixi/core/-/core-6.1.2.tgz#81b151654f5c072feb59052325edaab39329ab96"
   integrity sha512-S+f0qmVkrePor2XKA6A70Axo8ui+HiZgkl1J7AWVtl6MI49+3tXra9Ww3xmp/6jEdIUQyyN5sC8cg8dF/lgmBw==
+
+"@pixi/core@^6.5.8":
+  version "6.5.8"
+  resolved "https://registry.yarnpkg.com/@pixi/core/-/core-6.5.8.tgz#6b4fb6d877723427c8b3b438d071c1d523a859f5"
+  integrity sha512-Gconik7/PpFPMpCpOddXVIPx5C2StWKw7lQ4YX19yQ+cRRmecCea2cV0xTBtpEjjx0ilX7nBfIEuZ4zIlMmlbA==
+  dependencies:
+    "@types/offscreencanvas" "^2019.6.4"
 
 "@pixi/display@6.1.2", "@pixi/display@^6.1.2":
   version "6.1.2"
@@ -3224,6 +3231,11 @@
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
+
+"@types/offscreencanvas@^2019.6.4":
+  version "2019.7.0"
+  resolved "https://registry.yarnpkg.com/@types/offscreencanvas/-/offscreencanvas-2019.7.0.tgz#e4a932069db47bb3eabeb0b305502d01586fa90d"
+  integrity sha512-PGcyveRIpL1XIqK8eBsmRBt76eFgtzuPiSTyKHZxnGemp2yzGzWpjYKAfK3wIMiU7eH+851yEpiuP8JZerTmWg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
